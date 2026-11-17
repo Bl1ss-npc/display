@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    max-width: 423px;
+    min-height: 687px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    padding-top: 1px;
+    overflow: hidden;
+}
+    
+header p{
+    color: burlywood;
+}
+.boton{
+    background-color: rgba(65, 65, 216, 0.495);
+}
